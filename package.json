@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
-  "version": "1.0.0",
-  "description": "A Todo list project from the Udemy Course",
+  "version": "0.0.1",
+  "description": "A to-do list from The Web Developer Bootcamp Course | Udemy Project",
   "main": "index.js",
   "license": "MIT",
   "private": true,
